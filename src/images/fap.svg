@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="265" height="45" viewBox="0 0 1042 154">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-size: 95.833px;
+        font-family: Bahnschrift;
+        font-weight: 700;
+      }
+
+      .cls-1 {
+        fill: #1f1209;
+        text-decoration: underline;
+      }
+
+      .cls-2 {
+        fill: #f1a01f;
+        text-decoration: underline;
+      }
+    </style>
+  </defs>
+  <text id="Furnished" class="cls-1" x="35.5" y="110.5">Furnished</text>
+  <text id="Apartments" class="cls-2" x="501.5" y="106">Apartments</text>
+</svg>
